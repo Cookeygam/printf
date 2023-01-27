@@ -1,2 +1,2 @@
 # printf
-collaboration of james and cookey
+collaboration of james x cookey
